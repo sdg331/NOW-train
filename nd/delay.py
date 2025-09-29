@@ -1,4 +1,4 @@
 print("hello NOw !!")
 print("do not delay")
 
-print("Sometimes delays aren't a bad thing.. hahaha")
+print("Sometimes, being held back a little leads to something bette")
